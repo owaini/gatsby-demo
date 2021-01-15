@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/save-1.jpg",
+        "alt": "young saver", 
+        "name": "حفظ القرآن للصغار", 
+        "button": "شاهد"
+    },
+     {
+        "img": "../assets/images/old.jpg",
+        "alt": "old saver", 
+        "name": "حفظ القرآن للكبار", 
+        "button": "شاهد"
+    },
+     {
+        "img": "../assets/images/light.jpg",
+        "alt": "read", 
+        "name": "تدبر القرآن", 
+        "button": "شاهد"
+    },
+     {
+        "img": "../assets/images/manner.jpg",
+        "alt": "manner life", 
+        "name": "التخلق بالقرآن", 
+        "button": "شاهد"
+    }
+]
